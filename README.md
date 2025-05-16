@@ -1,1 +1,1 @@
-# gmail-smart-inbox
+# Gmail Smart Inbox
