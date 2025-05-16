@@ -1,1 +1,1 @@
-# gmail-inbox-exploration
+# gmail-smart-inbox
