@@ -4,10 +4,20 @@ A powerful tool for analyzing and organizing your Gmail inbox using intelligent 
 
 ## 🌟 Features
 
-- Smart email categorization and analysis
-- Inbox insights and statistics
+### Current Features
+- Email extraction and analysis
+  - Fetch emails from Gmail inbox
+  - Parse email headers (From, To, Subject, Date)
+  - Extract and analyze email body content
+  - Track email metadata (timestamps, labels)
+
+### 🚧 Potential Features To Be Added
 - Automated email organization
 - Custom filtering and processing rules
+- Smart categorization based on content
+- Custom labeling automation
+- Natural language query on inbox
+
 
 ## 🚀 Getting Started
 
